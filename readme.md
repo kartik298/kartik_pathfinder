@@ -1,18 +1,10 @@
 Path_finding_algo_visualizer
 
-Deployed on : https://friendly-boyd-c9f7cc.netlify.app/
+Deployed on : https://pathfinder-kartik.herokuapp.com/
 
 This application supports the following algorithms:
 
 Dijkstra's Algorithm (weighted): the father of pathfinding algorithms; guarantees the shortest path
-
-A Search* (weighted): arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm
-
-Greedy Best-first Search (weighted): a faster, more heuristic-heavy version of A*; does not guarantee the shortest path
-
-Swarm Algorithm (weighted): a mixture of Dijkstra's Algorithm and A*; does not guarantee the shortest-path
-
-Convergent Swarm Algorithm (weighted): the faster, more heuristic-heavy version of Swarm; does not guarantee the shortest path
 
 Bidirectional Swarm Algorithm (weighted): Swarm from both sides; does not guarantee the shortest path
 
